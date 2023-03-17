@@ -1,24 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload. Okay I already did that though
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Can I really learn React? Find out on the next episode of DBZ!
-        </a>
-      </header>
-    </div>
+    <h1>This is from the App.js file </h1>
   );
 }
 
